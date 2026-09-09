@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharp_SyntaxAndLogic_Drills")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71d1741738971f4acf12a0ac609565cc4d8fd685")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13d8cb31bc085ca1b79724597d0da76d25334b89")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharp_SyntaxAndLogic_Drills")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharp_SyntaxAndLogic_Drills")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
