@@ -1,0 +1,15 @@
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\bin\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.exe
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\bin\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.deps.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\bin\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.runtimeconfig.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\bin\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\bin\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.AssemblyInfoInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.AssemblyInfo.cs
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.csproj.CoreCompileInputs.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.sourcelink.json
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\refint\CSharp_SyntaxAndLogic_Drills.dll
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.pdb
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\CSharp_SyntaxAndLogic_Drills.genruntimeconfig.cache
+C:\Users\ITD-L0183\Documents\GitHub\CSharp_SyntaxAndLogic_Drills\obj\Debug\net9.0\ref\CSharp_SyntaxAndLogic_Drills.dll

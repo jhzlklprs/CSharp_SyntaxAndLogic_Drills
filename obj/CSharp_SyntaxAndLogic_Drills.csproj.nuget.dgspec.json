@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj": {}
+    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj": {
+    "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj",
+        "projectUniqueName": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj",
         "projectName": "CSharp_SyntaxAndLogic_Drills",
-        "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj",
+        "projectPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills.csproj",
         "packagesPath": "C:\\Users\\ITD-L0183\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\CSharp_SyntaxAndLogic_Drills\\obj\\",
+        "outputPath": "C:\\Users\\ITD-L0183\\Documents\\GitHub\\CSharp_SyntaxAndLogic_Drills\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
