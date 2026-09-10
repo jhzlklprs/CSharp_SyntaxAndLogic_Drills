@@ -73,14 +73,17 @@
 
 // TODO
 
-int [] numbers = {1,2,3,4,5};
 
-foreach(int n in numbers)
-{
-    for(int i = 0; i > 5; i++);
-    var result = n * n;
-    Console.WriteLine(result);
-}
+// int[] numbers = {1, 2, 3, 4, 5};
+
+// for (int i = 0; i < 5; i++)
+// {
+//     for (int j = 0; j < 5; j++)
+//     {
+//         Console.Write(numbers[i] * numbers[j] + " ");
+//     }
+//     Console.WriteLine();
+// }
 //
 // Expected output (first 2 rows shown):
 // 1 2 3 4 5
