@@ -99,25 +99,58 @@
 // Your only job is translating it into correct LINQ syntax.
 // This isolates the syntax skill — the thinking is done for you.
 
-// List<int> numbers = new List<int> { 4, 8, 15, 16, 23, 42, 1, 7 };
+ List<int> numbers = new List<int> { 4, 8, 15, 16, 23, 42, 1, 7 };
 
 // 3a: "Keep only numbers greater than 10"
 // TODO
+// var result = numbers.Where(n => n > 10);
+
+// foreach( var r in result)
+// {
+//     Console.WriteLine(r);
+// }
 
 // 3b: "Turn each number into its square"
 // TODO
+// var result = numbers.Select(n => n * n);
+
+// foreach(var r in result)
+// {
+//     Console.WriteLine(r);
+// }
 
 // 3c: "Get the smallest number in the list"
 // TODO
 
+// var result = numbers.Min();
+
+//     Console.WriteLine(result);
+
+
 // 3d: "Check if ANY number is negative"
 // TODO
+
+// var result = numbers.Any(n => n < 0);
+
+// Console.WriteLine(result);
 
 // 3e: "Check if ALL numbers are positive"
 // TODO
 
+// var result = numbers.All(n => n > 0);
+
+// Console.WriteLine(result);
+
 // 3f: "Sort the numbers from highest to lowest"
 // TODO
+
+// var result = numbers.OrderBy(n => n);
+
+// foreach (var r in result)
+// {
+//     Console.WriteLine(r);
+// }
+
 
 #endregion
 
